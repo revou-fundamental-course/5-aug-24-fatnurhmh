@@ -117,17 +117,6 @@ footer{
     border-top-right-radius: 10px;
 }
 
-.download{
-    display: flex;
-    justify-content: center;
-}
-
-img{
-    width: 140px;
-    height: 60px;
-    cursor: pointer;
-}
-
 /*tampilan mobile screen max 430px*/
 @media only screen and (max-width: 430px) {
     main {
